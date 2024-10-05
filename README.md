@@ -25,6 +25,20 @@ https://bit.ly/3ZNaMPK
 
 
 ##
+
+### Original Song Credit:
+`TRACK 1`
+Hausla - Seedhe Maut
+Track 14 on Lunch Break 
+Producer- Hurricane 
+Link: https://open.spotify.com/track/052IC7FR5s7bx9qv9WFRMD?si=90f15ac8c92543ab
+
+`TRACK 2`
+Since Tum - JANI, Talha Anujm & superdupersultan
+Producer- superdupersultan
+Link: https://open.spotify.com/track/5GnF4uvEcIibqcoYgzIlgS?si=536e3a42f786403f
+
+##
 by SHIVANSH :)
 
 
@@ -33,4 +47,4 @@ by SHIVANSH :)
 
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/052IC7FR5s7bx9qv9WFRMD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
