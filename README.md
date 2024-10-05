@@ -1,7 +1,7 @@
-# 🎵 SMify 🎵
+# 🎉 SMify 🎉
 
-## 📖 Description
-SMify is a **simple and intuitive music player** built using **HTML**, **CSS**, and **JavaScript**. It provides users with a seamless experience to play, pause, and skip tracks effortlessly. Designed for both aesthetics and functionality, SMify aims to enhance your music experience, whether you're relaxing at home or on the go. With SMify, enjoy your favorite tunes with a clean and responsive interface! 🎶
+## 📚 Description
+SMify is a **simple and intuitive music player** built using **HTML**, **CSS**, and **JavaScript**. It provides you with a seamless music experience.<br>Designed for both aesthetics and functionality, SMify aims to enhance your music experience, whether you're relaxing at home or on the go. With SMify, enjoy your favorite tunes with a clean and responsive interface! 📱
 
 
 
