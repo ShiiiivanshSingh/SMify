@@ -17,5 +17,9 @@ Example:
 
 
 
-![Screenshot 2024-10-05 144221](https://github.com/user-attachments/assets/02df2bc2-0eac-4074-8e65-9a3eec81654e)
-![Screenshot 2024-10-05 143432](https://github.com/user-attachments/assets/57033f13-3846-4e3a-905f-3e119521c8ed)
+
+![SMify](https://github.com/user-attachments/assets/79b4413d-6cee-4cf3-8b67-137d01217759)
+
+
+
+by SHIVANSH :)
